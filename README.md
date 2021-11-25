@@ -6,7 +6,7 @@ A full-length Developer Portfolio. Created from my W3 CSS Tutorial Series.
 
 You can clone or download this repository to your local machine using the link below:
 
-<https://github.com/abdrzqsalihu/Dev Portfolio>
+<https://github.com/abdrzqsalihu/Dev-Portfolio>
 
 ### How To Use
 
