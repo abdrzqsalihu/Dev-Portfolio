@@ -25,6 +25,7 @@ Terminal (cmd recommended)
 ## Built With
 
 * [W3 CSS](https://www.w3schools.com/w3css/default.asp) - A responsive CSS framework
+* [Font Awesome](https://fontawesome.com/) - The web's most popular icon set and toolkit.
 
 ## Authors
 
